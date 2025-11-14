@@ -1,7 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Networks      
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with python to C conversion
+- 🔭 I’m currently working on 5G, SDN, SQL and Python Apps
 <!--
 **danieliotgf/danieliotgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
